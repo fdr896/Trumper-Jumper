@@ -191,15 +191,15 @@ __file__ = '/usr/lib/python3.6/lib-dynload/_ctypes.cpython-36m-x86_64-linux-gnu.
 __name__ = '_ctypes'
 __package__ = ''
 __version__ = '1.1.0'
-_cast_addr = 140312925704207
-_memmove_addr = 140312952797904
+_cast_addr = 140153406074895
+_memmove_addr = 140153433168592
 _memset_addr = 4321152
 _pointer_type_cache = _mod_builtins.dict()
-_string_at_addr = 140312925693125
+_string_at_addr = 140153406063813
 def _unpickle():
     pass
 
-_wstring_at_addr = 140312925692059
+_wstring_at_addr = 140153406062747
 def addressof(Cinstance):
     'addressof(C instance) -> integer\nReturn the address of the C instance internal buffer'
     return 1
